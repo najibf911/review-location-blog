@@ -1,0 +1,13 @@
+.text-2rem {
+  font-size: 2rem;
+}
+
+.blog-link {
+  text-decoration: none;
+}
+
+.blog-link:hover {
+  text-decoration: underline;
+  color: blue;
+  font-weight: bold;
+}
